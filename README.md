@@ -4,4 +4,4 @@ I chose this question because I enjoy chatting with strangers in random places, 
 
 This is the chart below.
 
-! [This is a data wrapper chart] []
+! [This is a data wrapper chart] [m9Fxp-is-talking-a-lot-to-a-stranger-on-a-flight-considered-rude- (2).png]
