@@ -1,12 +1,5 @@
 # dataj124
 
-This is a **sample markdown** file that I can type a *description* that will show on the front page of my repository
+I chose this question because I enjoy chatting with strangers in random places, such as planes. However, I have always been curious on how many people simply find my chattiness unnecessary and even, rude. This was interesting as my chart reveals that in fact a lot of people do not find this rude at all, and has given me the confidence and peace of mind to continue chatting away.
 
-## This is a subtitle at level two
-
-Somone once told me the following quote:
-
-> Don't let your fears stand
-> in the way of your dreams
-
-<ins>This will be underlined</ins>
+! [alt text] [https://datawrapper.dwcdn.net/m9Fxp/1/]
